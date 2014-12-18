@@ -1,0 +1,7 @@
+<?php
+
+	/**
+	 * Begin Batch
+	 */
+
+?>

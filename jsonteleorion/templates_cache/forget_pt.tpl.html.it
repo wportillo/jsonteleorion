@@ -1,0 +1,30 @@
+a:4:{s:6:"blocks";a:2:{s:10:"__global__";s:11:"{__email__}";s:5:"email";s:1439:"<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; width:725px; margin: 0 auto; ">
+<p><img alt="TVmia Una forma nueva de ver televisión" src="http://www.tvmia.com/images/header_email.jpg" style="height:138px; width:725px" /></p>
+<p style="margin-top: 40px; margin-left: 30px; font-weight: bold;">Bienvenido al periodo de prueba con Tvmia gratis!</p>
+<p style="margin-top: 20px; margin-left: 30px; font-size: 15px;">Disfrute por 8 dias TODO  el contenido de TVmia totalmente gratis.<br />
+Si desea pasar a nuestro servicio  premium solo debe comprar cualquiera <br />de nuestros paquetes en la sección planes con su usuario actual.
+</p>
+<table align="left" border="0" cellpadding="0" cellspacing="7" style="margin-left: 26px; height:138px; width:342px; background-image: url(''); background-repeat: repeat-y;">
+<tbody>
+<tr>
+<td>Nombre y Apellido:</td>
+<td>{name} {surname}</td>
+</tr>
+<tr>
+<td>Contrasena:</td>
+<td>{password}</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img alt="Disfrute de la mejor programación de Argentina, Colombia y Perú. Llámanos al 1888 918 8642" src="http://www.tvmia.com/images/footer_email.jpg" style="height:154px; width:725px" /></p>
+</body>
+</html>";}s:9:"variables";a:2:{s:10:"__global__";a:1:{s:9:"__email__";b:1;}s:5:"email";a:3:{s:4:"name";b:1;s:7:"surname";b:1;s:8:"password";b:1;}}s:8:"children";a:2:{s:10:"__global__";a:1:{s:5:"email";b:1;}s:5:"email";a:0:{}}s:9:"functions";a:2:{s:10:"__global__";a:0:{}s:5:"email";a:0:{}}}
